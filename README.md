@@ -39,7 +39,7 @@
 - **属性预测**：对于场景图中的属性-物体组合，随机选取一部分词对其中属性词进行掩码和预测；
 - **关系预测**：对于场景图中的物体-关系-物体三元组，对其中的关系词进行掩码和预测。
 
-![ernie_vil_struct](.meta/ernie_vil_struct.png)
+![ernie_vil_struct](./ernie-large/ernie_vil_struct.png)
 
 ERNIE-ViL 场景图预训练任务结构
 
